@@ -1,0 +1,17 @@
+{
+  "name": "my-footy-team.net",
+  "version": "2.0.0",
+  "description": "AFL footy squad selector app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "AFL"
+  ],
+  "author": "Thomas Bullock",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
