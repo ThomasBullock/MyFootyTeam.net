@@ -1,0 +1,3 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/ThomasBullock/MyFootyTeam.net-Client.git
